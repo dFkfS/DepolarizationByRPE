@@ -1,0 +1,3 @@
+"# DepolarizationByRPE" 
+Each file contains a Matlab structure (‘DATA’) for one subject with two fields: (1) field ‘demographics’, with subfields ‘age’ and ‘sex’ and, in the case of glaucoma patients, ‘glaucomaSubtype’. (2) Field ‘DOPUdatapoints’, which is a 3 (repetitions) × 7 (rings) × 8 (sections) cell array, each cell containing a vector with all data points of the corresponding grid field.
+FTH: healthy volunteer. FTG: glaucoma patient.
